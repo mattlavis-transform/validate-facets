@@ -5,6 +5,7 @@
 - Create and activate a virtual environment, e.g.
 
   `python3 -m venv venv/`
+
   `source venv/bin/activate`
 
 - Set up local variables
