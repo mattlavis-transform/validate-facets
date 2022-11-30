@@ -117,3 +117,7 @@ csv/
 instructions.md
 Archive/
 sql/
+resources/all_facets.txt
+resources/facet_addresses.txt
+resources/missing_facets.txt
+resources/unique_facets.txt
