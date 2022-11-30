@@ -119,7 +119,7 @@ class FacetList:
                     f.write(facet + "\n")
         f.close()
 
-        print("\n\n", str(error_count), "\n\n")
+        print("\n\n", "Number of errors is", str(error_count), "\n\n")
 
         for row in range(2, row_count):
             for column in range(5, col_count):
