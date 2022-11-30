@@ -20,12 +20,3 @@
 - To run
 
   `python3 validate.py`
-
-
-- Test remotely
-
-  `https://comm-code-history.herokuapp.com/`
-
-
-- To restart the front-end and back-end services
-  `./startup.sh`
