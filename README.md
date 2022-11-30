@@ -1,4 +1,4 @@
-# Validate facets useed in search
+# Validate facets used in search
 
 ## Installation
 
