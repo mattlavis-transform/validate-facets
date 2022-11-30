@@ -1,6 +1,4 @@
-# Deprecated commodities API (Flask)
-
-Flassk API to show deprecated APIs
+# Validate facets useed in search
 
 ## Installation
 
@@ -9,13 +7,18 @@ Flassk API to show deprecated APIs
   `python3 -m venv venv/`
   `source venv/bin/activate`
 
+- Set up local variables
+
+  - `FACETS_SOURCE` = the location of the source Excel file
+  - `CLASSIFIER_FOLDER` = where the classifiers are stored
+
 - Install necessary Python modules 
 
   via `pip3 install -r requirements.txt`
   
 - To run
 
-  `python3 app.py`
+  `python3 validate.py`
 
 
 - Test remotely
